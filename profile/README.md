@@ -4,7 +4,6 @@ Welcome to the GitHub organization of **Clever Gang** – a creative group build
 ---
 
 ![Projects](https://img.shields.io/badge/Projects-Innovation%20&%20Play-blueviolet?style=for-the-badge&logo=github&logoColor=white)
-![Contact](https://img.shields.io/badge/Email-miraflores.john@gmail.com-ff6347?style=for-the-badge&logo=gmail&logoColor=white)
 
 ---
 
@@ -37,11 +36,5 @@ A small collective of developers experimenting with web design, Java programming
 - 📸 [Instagram](https://www.instagram.com/daxxtropezz)
 - 🌐 [Personal Website (Vercel)](https://daxxtropezz.vercel.app)
 - 💻 [Portfolio (GitHub Pages)](https://daxxtropezz.github.io)
-
----
-
-## 📬 Contact
-
-✉️ Email: [miraflores.john@gmail.com](mailto:miraflores.john@gmail.com)
 
 Stay curious. Stay clever. 🚀
